@@ -1,0 +1,20 @@
+Qual a cor da laranja?,verde
+Qual a cor do melao?,amarelo
+Qual a cor da goiaba por dentro?,rosa
+Qual a cor do milho verde?,amarelo
+Qual a cor do leite?,branco
+Qual a cor da melancia?,verde
+Qual a cor do caroco do abacate?,marrom
+Qual a cor  da Bacaba?,roxo
+Qual a cor do Biriba?,verde
+Qual a cor do Caqui?,vermelho
+Qual a cor da Cidra?,verde
+Qual a cor do cupuacu por dentro?,branco
+Qual a cor do figo?,roxo
+Qual a cor da Groselha?,vermelho
+Qual a cor do Inga por dentro?,branco
+Qual a cor da Jabuticaba?,preto
+Qual a cor da jaca por dentro?,amarelo
+Qual a cor do Limao?,verde
+Qual a cor da maca?,vermelho
+Qual a cor do Pequi?,amarelo
